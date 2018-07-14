@@ -43,6 +43,7 @@ Steps of Execution
 Design Pattern used: Observer Pattern
 
 Subject : User
+
 Observers : TalentMarketingApp and ProjectOwner.
 
 Explanation
