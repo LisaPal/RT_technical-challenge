@@ -46,7 +46,7 @@ Subject : User
 
 Observers : TalentMarketingApp and ProjectOwner.
 
-Explanation \n
+Explanation: 
 If the user (job seeker) is not employed, we consider him/her in the TalentMarketingApp to match them with a project.
 However, if the user status is employed, we do not consider them for a match.
 Likewise, ProjectOwner needs to observe user and only if he/she is employed can ProjectOwner do certain functions such
