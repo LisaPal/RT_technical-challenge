@@ -12,7 +12,7 @@ Part 1 : Matching
 2. User applies to join projects recommended by system. TalentMerketingApp gives Project Owner a match analysis
    that helps Project Owner accept or decline request. 
 
-Part 2: Post Project Completion
+Part 2: Post Project Completion <br />
 Project Owner endorses, rates and gives feedback to project members. 
  
 Triggers
@@ -42,8 +42,7 @@ Steps of Execution
 
 Design Pattern used: Observer Pattern
 
-Subject : User
-
+Subject : User <br />
 Observers : TalentMarketingApp and ProjectOwner.
 
 Explanation: 
